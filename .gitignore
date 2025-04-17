@@ -1,0 +1,5 @@
+# Ignore everything in the folder
+/src/*
+
+# Except this specific file
+!/src/ExpenseSplitterGUI.java
